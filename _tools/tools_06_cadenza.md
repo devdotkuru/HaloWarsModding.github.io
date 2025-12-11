@@ -11,6 +11,10 @@ toc: true
 # Cadenza <span class="label label-green">Stable</span>
 {: .no_toc }
 
+{: .new }
+Cadenza is new!  
+Any feedback or bug reports are appreciated.  
+
 [Download Cadenza](https://github.com/HaloWarsModding/Cadenza/releases/download/0.0.1/Cadenza_win-x64_v0.0.1.zip){: .btn .btn-purple }
 
 Cadenza is a small command-line tool that lets you pull sounds out of Halo Wars: Definitive Edition, edit them, and then put them back into the game.
