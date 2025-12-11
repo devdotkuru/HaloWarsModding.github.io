@@ -68,9 +68,9 @@ You point Cadenza at a game `.pck` file.
 
 Cadenza will
 
-Find all the sounds (`.wem`) and SoundBanks (`.bnk`) inside it.
-Sort files by language (ENG, FRA, etc.).
-Save everything as regular files on disk.
+- Find all the sounds (`.wem`) and SoundBanks (`.bnk`) inside it.
+- Sort files by language (ENG, FRA, etc.).
+- Save everything as regular files on disk.
 
 At the same time, it creates a project file:
 
@@ -78,9 +78,9 @@ At the same time, it creates a project file:
 
 This project file remembers
 
-Which sounds were in the pack  
-How they were organized  
-What needs to be rebuilt later  
+- Which sounds were in the pack  
+- How they were organized  
+- What needs to be rebuilt later  
 
 You don’t need to track any of that yourself, the project file is the recipe for rebuilding.
 
@@ -102,8 +102,8 @@ The sound setup (events and mappings)
 
 Using `.bnkinfo` you can change, for example
 
-Which event plays which sound  
-Which media ID points to which audio file  
+- Which event plays which sound  
+- Which media ID points to which audio file  
 
 When you’re done editing `.bnkinfo`, Cadenza can turn them back into proper `.bnk` files the game understands.
 
@@ -113,16 +113,16 @@ When you’re done editing `.bnkinfo`, Cadenza can turn them back into proper `.
 
 Once you’ve
 
-Edited or replaced audio (WAVs)
-Adjusted events/mappings (`.bnkinfo`)
+- Edited or replaced audio (WAVs)
+- Adjusted events/mappings (`.bnkinfo`)
 
 You run Cadenza again, this time on the `.cadenzaproj` file.
 
 Cadenza will
 
-Rebuild any updated SoundBanks (`.bnk`)
-Rebuild the `.pck` package(s)
-Put all your edited audio back into the right places
+- Rebuild any updated SoundBanks (`.bnk`)
+- Rebuild the `.pck` package(s)
+- Put all your edited audio back into the right places
 
 The result is a new `.pck` that the game can use just like the original, but with your custom sounds.
 
@@ -133,7 +133,7 @@ The result is a new `.pck` that the game can use just like the original, but wit
 Cadenza builds on other projects
 
 HashDepot (Sedat Kapanoglu)  
-  Used for hashing internals.
+- Used for hashing internals.
 
 Wwiser.NET  
-  Used to read and convert SoundBank data into `.bnkinfo` for easier editing.
+- Used to read and convert SoundBank data into `.bnkinfo` for easier editing.
