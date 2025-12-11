@@ -12,8 +12,9 @@ toc: true
 {: .no_toc }
 
 {: .new }
-Cadenza is new!  
-Any feedback or bug reports are appreciated.  
+Cadenza is new and still evolving.  
+Have feedback or ideas? Join the Halo Wars Hub Discord and let us know.  
+Found a bug or issue? Please report it on the [Cadenza GitHub issue tracker](https://github.com/HaloWarsModding/Cadenza/issues).  
 
 [Download Cadenza](https://github.com/HaloWarsModding/Cadenza/releases/download/0.0.1/Cadenza_win-x64_v0.0.1.zip){: .btn .btn-purple }
 
@@ -21,7 +22,7 @@ Cadenza is a small command-line tool that lets you pull sounds out of Halo Wars:
 
 Think of it as:
 
-"Unpack sound files > edit them > repack for the game."
+Unpack sound files > edit them > repack for the game.
 
 1. TOC
 {:toc}
@@ -122,8 +123,6 @@ Cadenza makes use of a couple of existing projects:
 
 - HashDepot (Sedat Kapanoglu)
   - Provides the FNV-1 hashing implementation.  
-  - Cadenza adds helper methods and xUnit tests on top.  
 
 - Wwiser.NET
   - Used to parse SoundBank metadata.  
-  - This is what makes exporting to and from `.bnkinfo` possible.
