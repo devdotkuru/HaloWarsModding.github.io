@@ -13,7 +13,7 @@ toc: true
 
 {: .new }
 Cadenza is new and still evolving.  
-Have feedback or ideas? Join the Halo Wars Hub Discord and let us know.  
+Have feedback or ideas? Join the [Halo Wars Hub Discord](https://discord.gg/GuvUCgqz8d) and let us know.  
 Found a bug or issue? Please report it on the [Cadenza GitHub issue tracker](https://github.com/HaloWarsModding/Cadenza/issues).  
 
 [Download Cadenza](https://github.com/HaloWarsModding/Cadenza/releases/download/0.0.1/Cadenza_win-x64_v0.0.1.zip){: .btn .btn-purple }
