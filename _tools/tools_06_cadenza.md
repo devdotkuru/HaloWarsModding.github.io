@@ -17,9 +17,7 @@ If you want to swap voice lines, replace sound effects, or tweak what plays when
 
 {: .new }
 Cadenza is still being improved.
-
 Have feedback or ideas? Join the [Halo Wars Hub Discord](https://discord.gg/GuvUCgqz8d)
-
 Found a bug? Report it on the [Cadenza GitHub issue tracker](https://github.com/HaloWarsModding/Cadenza/issues)
 
 [Download Cadenza](https://github.com/HaloWarsModding/Cadenza/releases/download/0.0.1/Cadenza_win-x64_v0.0.1.zip){: .btn .btn-purple }
