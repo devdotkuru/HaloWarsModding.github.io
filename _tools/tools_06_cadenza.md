@@ -11,8 +11,7 @@ toc: true
 # Cadenza <span class="label label-green">Stable</span>
 {: .no_toc }
 
-Cadenza is a small command-line tool that lets you take sounds out of Halo Wars: Definitive Edition, change them, and put them back into the game.
-
+Cadenza is a small command-line tool that lets you take sounds out of Halo Wars: Definitive Edition and rebuild them.
 
 If you want to swap voice lines, replace sound effects, or tweak what plays when, Cadenza is what you use.
 
