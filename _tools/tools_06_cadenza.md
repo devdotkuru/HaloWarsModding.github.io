@@ -19,6 +19,9 @@ Think of it as:
 
 "Unpack sound files > edit them > repack for the game."
 
+1. TOC
+{:toc}
+
 ---
 
 ## What Cadenza Works With
@@ -35,7 +38,7 @@ Cadenza helps you go from these formats to something editable and back again.
 
 ## How It Works 
 
-### 1. Extraction
+### Extraction
 
 You point Cadenza at a `.pck` file.
 
@@ -60,7 +63,7 @@ You don’t have to manually track any of that, the project file is the recipe f
 
 ---
 
-### 2. Editing & Recompilation
+### Editing & Recompilation
 
 Once you’ve extracted everything, you can edit:
 
