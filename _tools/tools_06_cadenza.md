@@ -49,7 +49,9 @@ Unpack game sounds > edit them > repack them for the game.
 Halo Wars: DE stores its audio in a few file types. You’ll see these names, but you don’t need to fully understand them:
 
 `.pck` - big “sound packs” that hold lots of sounds and banks.
+
 `.bnk` - SoundBanks (they tell the game what sounds to play and when).
+
 `.wem` - the actual audio files used by the game.
 
 Cadenza handles converting these into files you can actually edit, and then back into game-ready files.
